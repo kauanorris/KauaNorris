@@ -3,17 +3,15 @@
 ## 👨‍💻 Sobre Mim  
 
 Sou apaixonado(a) por [área de atuação, ex: desenvolvimento web, IA, jogos, etc.] e adoro criar soluções que [objetivo, ex: resolvam problemas, automatizem tarefas, inspirem pessoas]. 
-<!--
-**kauanorris/KauaNorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tecnologias](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github&theme=light)  
+
+
+## 📊 Estatísticas do GitHub  
+
+<div align="left">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula&count_private=true" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dracula" />  
+</div>

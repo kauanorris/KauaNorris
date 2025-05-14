@@ -12,6 +12,6 @@ Sou apaixonado(a) por [área de atuação, ex: desenvolvimento web, IA, jogos, e
 ## 📊 Estatísticas do GitHub  
 
 <div align="left">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula&count_private=true" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dracula" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanorris&show_icons=true&theme=dracula&count_private=true" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanorris&layout=compact&theme=dracula" />  
 </div>

@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mim  
 
-Sou apaixonado(a) por [área de atuação, ex: desenvolvimento web, IA, jogos, etc.] e adoro criar soluções que [objetivo, ex: resolvam problemas, automatizem tarefas, inspirem pessoas]. 
+Sou apaixonado por desenvolvimento web, IA, jogos, etc. e adoro criar soluções que objetivo, ex: resolvam problemas, automatizem tarefas. 
 
 ## 🛠️ Tecnologias & Ferramentas  
 
